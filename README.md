@@ -9,4 +9,4 @@
 3. Maak een README.md aan in je Git repository
 4. Druk op ctrl + shift + p type markdown.md en klick op open preview
 5. Schrijf hierin documentatie van je project en code
-### [markdown wiki](https://en.wikipedia.org/wiki/Markdown)
+### [markdown wiki](https://en.wikipedia.org/wiki/Markdown) 
